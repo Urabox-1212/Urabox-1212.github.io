@@ -438,6 +438,10 @@ iframe{
     margin-left: 80px;
   }
 
+  .ad{
+    display: none;
+  }
+
 
   /* menu */
   .menu-content{
